@@ -1,0 +1,1 @@
+# chesboard-type-problem
